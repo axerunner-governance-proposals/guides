@@ -24,7 +24,7 @@ This guide will help you through the process to create a proposal using a simple
 
 ### Populate your repository
 1. Go to the [templates repository](https://github.com/axerunner-governance-proposals/Proposal-templates)
-2. Select a template, e.g. [`detailed.md`](https://github.com/axerunner-governance-proposals/Proposal-templates/blob/master/basic-template)
+2. Select a template, e.g. [`basic-template.md`](https://github.com/axerunner-governance-proposals/Proposal-templates/blob/master/basic-template)
 3. Click **raw**
 4. Copy the entire text of the template
 5. Return to your project repository.
