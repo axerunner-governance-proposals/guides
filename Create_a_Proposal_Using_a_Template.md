@@ -48,9 +48,9 @@ This guide will help you through the process to create a proposal using a simple
 9. Click **Commit changes**
 
 ### Re-edit `proposal.md` and re-launch Github Project Page as needed
-1. Return to your project repository, e.g. [proposal-dash-community](https://github.com/dashcommunity/proposal-dash-community)
+1. Return to your project repository.
 2. Click **`proposal.md`**, then the **edit icon**
 3. Modify the text of each section for your proposed project
 4. Select all text and copy
 5. Click the green **Commit changes** button
-5. Repeat the steps in [Initialize a Github Project Page](link)
+
