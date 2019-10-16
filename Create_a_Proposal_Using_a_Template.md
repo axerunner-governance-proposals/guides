@@ -1,7 +1,7 @@
 # Create a Proposal Using a Template
 
 ##### About this document
-This guide will help you through the process to create a proposal using a simple template the Dash Community [proposal templates](https://github.com/axerunner-governance-proposals/Proposal-templates).  It's easier than it looks.
+This guide will help you through the process to create a proposal using a simple template  [proposal templates](https://github.com/axerunner-governance-proposals/Proposal-templates).  It's easier than it looks.
 
 ### Create a proposal repository
 1. Sign in to Github and go to [axerunner governance main page](https://github.com/axerunner-governance-proposals)
