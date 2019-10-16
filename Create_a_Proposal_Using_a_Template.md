@@ -41,13 +41,13 @@ This guide will help you through the process to create a proposal using a simple
 2. Click **`proposal.md`** file you created in the last step
 3. Read the templete to get an idea of what goes where in the proposal
 4. Click the **pencil icon** ("Edit this file" on hover)
-5. Delete the **Usage & Content** fiels entirely (you can refer back to your `template.md` if needed)
+5. Delete the **Usage & Content** fields entirely (you can refer back to your `template.md` if needed)
 6. Delete the **Description** sections entirely
 7. Delete the **Example** *headings*, leave the section *content* for now
 8. Select all the text and copy
 9. Click **Commit changes**
 
-### Re-edit `proposal.md` and re-launch Github Project Page as needed
+### Re-edit `proposal.md` 
 1. Return to your project repository.
 2. Click **`proposal.md`**, then the **edit icon**
 3. Modify the text of each section for your proposed project
